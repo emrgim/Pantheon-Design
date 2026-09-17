@@ -1,30 +1,31 @@
 # Plates
 
-The background is a **16:9 industrial steel plate** coated in matte enamel `#1E5197`.
+16:9 industrial steel plate, matte enamel `#1E5197`.
 
 ## Figure
 
-Not a statue in a room. The god (or the Pantheon building) is **in the plane of the plate**:
+In the plane of the plate, not a statue in space.
 
-- Faded, sfumato, low contrast — present, not smaller, not neon.
-- Built like a blueprint: construction lines, registration, **tiny lines of code** (monospace dump) forming the image.
-- Revealed “metal” is muted grey, never chrome, never gold.
+- **Scale:** large bust / building — do not shrink to a medallion.
+- **Presence:** sfumato, low contrast, faded into the enamel. Less present = more faded, not smaller.
+- **Construction:** blueprint + **tiny source-code lines** (monospace) forming the image. Not banknote silver cutout, not photoreal skin, not neon.
+- Revealed metal: muted grey, never chrome, never gold.
 
 ## Placement (slide variables)
 
 | Key | Field |
 |---|---|
-| `full` | Figure centered, large, still faded |
-| `left` | Figure in the **left third**; right two thirds empty plate for type |
-| `right` | Figure in the **right third**; left two thirds empty plate for type |
-| `blank` | Plate only. No figure, no type. |
+| `full` | Centered, large, faded |
+| `left` | Left third; right two thirds empty plate for type |
+| `right` | Right third; left two thirds empty plate for type |
+| `blank` | Plate only. No figure, no type |
 
-Gods: the full catalog on [dei.mrg.im](https://dei.mrg.im) (`iuppiter` … `iustitia`). Building: Roman Pantheon (portico, dome, oculus as a faint circle — no light beam).
+Also: **Pantheon building** (portico, dome, oculus as a faint circle — no light beam) as `edificio_full` / `_left` / `_right`.
 
 ## Grain
 
-Optional 6–8% white monospace overlay (code / OLP strings). Never on top of photographs. Never a second blue.
+6–8% white monospace overlay (code / OLP strings) on empty enamel. Never on catalog photographs.
 
 ## Do not
 
-Photoreal marble, 3D CGI, CRT scanlines, lightning as a light source, multiple blues, Italian chrome, amber frames.
+Photoreal marble, 3D CGI, CRT scanlines, lightning as a light source, multiple blues, Italian chrome, amber frames, tiny corner logos instead of the bust.

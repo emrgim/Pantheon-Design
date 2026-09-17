@@ -1,22 +1,21 @@
 # Pantheon Design
 
-Graphic system for **Pantheon** (mrg.im): one identity for [dei.mrg.im](https://dei.mrg.im) and Google Slides.
+Graphic system for **Pantheon** only: [dei.mrg.im](https://dei.mrg.im), Pantheon Slides, Dei video.
 
-**All product copy is English.** Latin names of the gods stay (`Iuppiter`, `Iuno`, …).
+**English** chrome. Latin god names. One blue `#1E5197`.
 
-## Spec
+Not for other products.
 
-- [Home](wiki/Home.md) — rules
-- [Color](wiki/Color.md) — one blue, white type scale
-- [Type](wiki/Type.md) — IBM Plex Serif / Sans / Mono
-- [Plates](wiki/Plates.md) — steel enamel, faded figure, code grain
-- [Layouts](wiki/Layouts.md) — Slides kit
-- [Language](wiki/Language.md) — English only
-- [Surfaces](wiki/Surfaces.md) — site + slides
+## Wiki
 
-GitHub wiki: https://github.com/emrgim/Pantheon-Design/wiki
+- [Home](wiki/Home.md)
+- [Color](wiki/Color.md)
+- [Type](wiki/Type.md)
+- [Plates](wiki/Plates.md)
+- [Gods](wiki/Gods.md)
+- [Layouts](wiki/Layouts.md)
+- [Language](wiki/Language.md)
+- [Video](wiki/Video.md)
+- [Surfaces](wiki/Surfaces.md)
 
-## Live
-
-- Catalog: https://dei.mrg.im
-- Slides template: https://docs.google.com/presentation/d/1gBhmzcurAdY5NAMxz0RWjj2bbLKhO0WBQr1reJ7Inxc/edit
+Repo: https://github.com/emrgim/Pantheon-Design
